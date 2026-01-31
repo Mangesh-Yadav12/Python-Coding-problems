@@ -1,3 +1,10 @@
+![Language](https://img.shields.io/badge/Language-Logic%20Building-blue)
+![Practice](https://img.shields.io/badge/Daily%20Practice-5%20Questions-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Beginner%20Friendly](https://img.shields.io/badge/Level-Beginner--Friendly-orange)
+![Consistency](https://img.shields.io/badge/Focus-Consistency-important)
+
+
 # 🧠 Master Your Logic Building (Before DSA)
 
 A **structured, phase-wise logic building repository** focused on strengthening problem-solving skills before advancing to **Data Structures & Algorithms (DSA)**.
