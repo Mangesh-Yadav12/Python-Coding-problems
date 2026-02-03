@@ -5,7 +5,7 @@
 ![Consistency](https://img.shields.io/badge/Focus-Consistency-important)
 
 
-# 🧠 Master Your Logic Building (Before DSA)
+# 🧠 Master Your Logic Building (With DSA)
 
 A **structured, phase-wise logic building repository** focused on strengthening problem-solving skills before advancing to **Data Structures & Algorithms (DSA)**.
 
