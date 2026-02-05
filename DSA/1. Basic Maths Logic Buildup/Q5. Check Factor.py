@@ -17,4 +17,4 @@ def checkfactor(num):
     return count," Factors: " ,result
 
 
-print(checkfactor(36))
+print(checkfactor(20))
