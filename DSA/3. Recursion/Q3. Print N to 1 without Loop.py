@@ -1,10 +1,10 @@
-"""Print 1 to N without Loop"""
+"""Print N to 1 without Loop"""
 
 def printN(n):
     if n == 0:
         return
-
-    printN(n-1)
     print(n,end=" ")
+    printN(n-1)
 
-printN(7)
+
+printN(6)
