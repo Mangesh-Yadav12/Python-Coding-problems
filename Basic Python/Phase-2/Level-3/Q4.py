@@ -8,4 +8,4 @@ def findHCF(a,b):
         x,y = y , x%y
     print("HCF = ",x)
 
-findHCF(34,98)
+findHCF(10,100)
